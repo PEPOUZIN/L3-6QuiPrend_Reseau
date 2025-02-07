@@ -1,0 +1,11 @@
+Moyenne des scores :
+Bot n°3  : 38.67 points, Victoires : 2, Défaites : 1
+NOM  : 66.00 points, Victoires : 1, Défaites : 0
+Bot n°4  : 16.00 points, Victoires : 2, Défaites : 0
+Bot Amélioré n°1  : 19.00 points, Victoires : 1, Défaites : 0
+Bot n°5  : 50.50 points, Victoires : 1, Défaites : 1
+Bot Amélioré n°2  : 19.00 points, Victoires : 1, Défaites : 0
+Bot Amélioré n°3  : 17.00 points, Victoires : 1, Défaites : 0
+NOM1  : 60.00 points, Victoires : 1, Défaites : 0
+Bot n°1  : 37.33 points, Victoires : 3, Défaites : 0
+Bot n°2  : 29.67 points, Victoires : 3, Défaites : 0

@@ -1,0 +1,18 @@
+Bot n°1 : 46 points, Victoires : 1, Défaites : 0
+Bot n°2 : 6 points, Victoires : 1, Défaites : 0
+Bot n°3 : 71 points, Victoires : 0, Défaites : 1
+Bot n°4 : 10 points, Victoires : 1, Défaites : 0
+Bot n°5 : 25 points, Victoires : 1, Défaites : 0
+NOM : 66 points, Victoires : 1, Défaites : 0
+NOM1 : 60 points, Victoires : 1, Défaites : 0
+Bot Amélioré n°1 : 19 points, Victoires : 1, Défaites : 0
+Bot Amélioré n°2 : 19 points, Victoires : 1, Défaites : 0
+Bot Amélioré n°3 : 17 points, Victoires : 1, Défaites : 0
+Bot n°1 : 45 points, Victoires : 1, Défaites : 0
+Bot n°2 : 17 points, Victoires : 1, Défaites : 0
+Bot n°3 : 30 points, Victoires : 1, Défaites : 0
+Bot n°4 : 22 points, Victoires : 1, Défaites : 0
+Bot n°5 : 76 points, Victoires : 0, Défaites : 1
+Bot n°1 : 21 points, Victoires : 1, Défaites : 0
+Bot n°2 : 66 points, Victoires : 1, Défaites : 0
+Bot n°3 : 15 points, Victoires : 1, Défaites : 0
